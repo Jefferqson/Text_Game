@@ -32,8 +32,7 @@ def global_functions(user_input):
             print("You already threw your hat away, you monster.")
     elif user_input == "remove pants":
         if Inventory.inventory["pants"]:
-            print("You tear your pants off and live free\n"
-                  "Somewhere in the universe you sense that Ambre is happy.")
+            print("You tear your pants off and live free")
             Inventory.inventory["pants"] = False
         else:
             print("You realize, sadly, that this as free as you will ever be.")

@@ -7,11 +7,12 @@ Behind you, a laundry room inside a mountain beckons.''',
     "statue": '''There is a large statue here, halfway buried in the sand. It appears
 to be a human head, but it appears partially destroyed. You have an overwhelming
 desire to touch it.''',
-    "laundry room": '''Inside the mountain, you find a laundry room. There are dirty clothes everywhere.
-There is a single washer-dryer combo in one corner of the room and a set of stairs disappearing deeper into
-the mountains. ''',
-    "hidden cave": '''Behind the washer-dryer combo, and up several flights of stairs in the dark,
-you find yourself emerging into the light...the light of a small fluorescent lamp at the top of an iron door. ''',
+    "laundry room": '''Inside the mountain, you find a laundry room. There are 
+    dirty clothes everywhere. There is a single washer-dryer combo in one corner 
+    of the room and a set of stairs disappearing deeper into the mountains. ''',
+    "hidden cave": '''Behind the washer-dryer combo, and up several flights of 
+    stairs in the dark, you find yourself emerging into the light...the light 
+    of a small fluorescent lamp at the top of an iron door. ''',
 }
 
 location_count = {
@@ -27,7 +28,7 @@ location_short = {
     "spit": '''A small stretch of sand between the beach and the statue.''',
     "statue": '''A large human-like statue. You want to touch it.''',
     "laundry room": '''A place where clothes are cleaned.''',
-    "hidden cave": '''down the stairs, laundry. Up the stairs, an iron door.'''
+    "hidden cave": '''Down the stairs, laundry. Up the stairs, an iron door.'''
 }
 
 present_location = "beach"

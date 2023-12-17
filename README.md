@@ -6,4 +6,5 @@ Currently, I am working on expanding the story with new locations and actions, a
 
 
 version 0.2 added tkinter user interface (December 16, 2023)
+
 version 0.1 created game (November 26, 2023)
